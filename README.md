@@ -15,3 +15,9 @@ https://docs.npmjs.com/getting-started/using-a-package.json
 
 ## install MongooseJS
 http://mongoosejs.com/docs/
+
+##--------------------------------------------------------------------------------------
+
+
+### Display the Data : 
+- data.detail.modelNumber
