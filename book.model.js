@@ -8,11 +8,22 @@ var BookSchema = new Schema ({
 	published: {
 		type: Date,
 		default: Date.now
-},
+	},
 keywords: Array,
 published: Boolean,
 autor:{
-	type:Schema.objected,
+	type:Schema.objectId,
+	//type:Schema.Type.objectId,
+	ref:'User'
+	},
+	
+// Embedded sub-document
+detail:{
+modeNumber:Number,
+hardcoever: Boolean,
+rank: Number
+}
+	
 }
 })
 
