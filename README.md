@@ -14,6 +14,10 @@ install :
 
 > npm install --save express mongoose body-parser
 
+install bower :
+
+> npm install -g bower
+
 ## Using a package.json
 
 https://docs.npmjs.com/getting-started/using-a-package.json
