@@ -1,5 +1,7 @@
 # MongooseJS-Training
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MrDataScientist/Mongoose-Node.js.svg)](https://greenkeeper.io/)
+
 ## usefull commands
 
 To create a package.json run:
